@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.landing {
+    background-color: #1F2937;
+}
+
+.nav {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: bold;
+}
+
+.links {
+    display: flex;
+    font-weight: 18px;
+    align-items: center;
+    color: #E5E7EB;
+    gap: 30px;
+}
