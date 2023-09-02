@@ -1,6 +1,6 @@
 <div align='center'>
   
-# Odin Project - Landing Page Ass.
+# 'The Odin Project' - Landing Page Project.
 
 </div>
 
