@@ -44,8 +44,9 @@
 }
 
 .hero {
-    margin: 80px auto;
+    /* margin: 80px auto; */
     padding-bottom: 80px;
+    padding-top: 80px;
     height: 250px;
     gap: 30px;
 }
@@ -95,6 +96,14 @@
     flex-direction: column;
 }
 
+.info-heading {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    margin: 40px auto;
+}
+
 .info-cards {
     display:flex;
     justify-content: center;
@@ -105,6 +114,10 @@
     text-align: center;
     height: 150px;
     width: 150px;
+}
+
+.card p {
+    padding-top: 8px;
 }
 
 .card-img {
