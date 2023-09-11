@@ -168,11 +168,8 @@
     align-items: center;
 }
 
-
-
 .text {
-    margin: 0 50px;
-    
+    margin: 0 50px; 
 }
 
 .bold {
@@ -181,4 +178,14 @@
 
 .white-outline {
     border: 2px solid white;
+}
+
+.copywrite-section {
+    background-color: #1F2937;
+}
+
+.copywrite {
+    justify-content: center;
+    padding: 30px;
+    color: #E5E7EB;
 }
